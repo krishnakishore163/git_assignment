@@ -34,5 +34,5 @@ g. What is the main branch?
    The main branch is the primary branch in a Git repository. 
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?  
-I will not recommend to push changes directly to the main branch, especially in collaborative projects. Instead, we should create a new branch for our changes, push the branch to the repository, and then open a pull request for review. This allows for better collaboration and ensures that changes are reviewed before being merged into the main branch.
+I will definitely not recommend to push changes directly to the main branch, especially in collaborative projects. Instead, we should create a new branch for our changes, push the branch to the repository, and then open a pull request for review. This allows for better collaboration and ensures that changes are reviewed before being merged into the main branch.
 
